@@ -1,4 +1,4 @@
-# Otobus-Bilet-Otomasyonu
+# Otobus-Bilet Otomasyonu
 
 
 Veri Tabanı Destekli Görsel Programlama dersi vize ödevi için yaptığım Otobüs-Bilet Otomasyonu 
